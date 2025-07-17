@@ -18,8 +18,8 @@ I’m an independent AI safety researcher currently working with:
 
 Previously:
 
-- **Microsoft Research** — Worked with Neeraj Kayal, Amit Sharma, and Amit Deshpande on representation learning and robustness in LLMs.
-- **Wadhwani AI** — Deployed ML for large-scale public health in India.
+- **Microsoft Research** — Worked with Neeraj Kayal on representation learning theory, and Amit Sharma and Amit Deshpande on ICL robustness in LLMs.
+- **Wadhwani AI** — Formulated AI problems in public health and trained robust and interpretable ML large-scale deployments in India.
 - Mentored a **SPAR 2025** project on zero-knowledge auditing for undesired behaviors.
 
 ---
